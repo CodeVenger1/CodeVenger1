@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there👋, I'm Shatadeep De</h1>
 
 <!--
 **CodeVenger1/CodeVenger1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
